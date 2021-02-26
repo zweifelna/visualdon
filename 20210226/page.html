@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animation svg</title>
+    <style> 
+        rect:hover { 
+            fill: brown; 
+            stroke: chocolate;
+        }
+
+        @keyframes blink {
+        from {
+            stroke-width: 0
+        }
+        to {
+            stroke-width: 2
+        }
+        }
+
+        path {
+        animation-duration: 2s;
+        animation-name: blink;
+        animation-iteration-count: infinite;
+        animation-direction: alternate;
+        stroke: green;
+        }
+
+    </style>
+</head>
+<body>
+    <svg viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg" id="svg">
+        <rect x="73" y="40" width="10" height="60" fill="chocolate" stroke="brown"
+            stroke-width="1" stroke-linecap="round"/>
+        <circle cx="78" cy="30" r="30" fill="green" />
+        <g fill="green">
+            <path d="M 50 20 C 44 28 44 32 50 40 Z"/>
+            <path d="M 50 20 C 44 28 44 32 50 40 Z" transform="rotate(180, 78, 30)"/>
+        </g>
+        <text id="parc" x="50" y="99" font-size="20" text-anchor="middle"
+            font-weight="bold" fill="none" stroke="tomato"
+            stroke-dasharray="300">Parc</text>
+    </svg>
+    
+
+    <script>
+
+        const text = document.getElementById('parc')
+
+        let isTomato = true
+
+        text.addEventListener('click', () => {
+            isTomato = !isTomato
+            text.setAttribute('stroke', isTomato ? 'tomato' : 'blue')
+        })
+        
+    </script>
+</body>
+</html>
