@@ -4,7 +4,7 @@
 
 - **Décrivez quelle est l'intention des auteurs**
 
-  Le but des auteurs est de montrer que c'est surtout les côtes des états-unis qui ont votés pour elle.
+  Le but des auteurs est de montrer que c'est surtout les côtes des états-unis qui ont votés pour elle. Probablement que le but était d'essayer de discrediter Clinton et ses victoires.
 
 - **En quoi les choix, de données ou de type de visualisation, aident à faire passer le message souhaité ?**
 
@@ -12,7 +12,7 @@
 
 - **Qu'est ce qui est omis?**
 
-  Tout ce qui est en dessous de 50% de voix en faveur de Clinton est mis dans la "mer". Il manque donc une partie des données.
+  Tout ce qui est en dessous de 50% de voix en faveur de Clinton est mis dans la "mer". Il manque donc une partie des données. Cela fait croire à beaucoup moins de voix pour Clinton que ce qu'il est en réalité.
 
 ## Pornhub year in review
 
@@ -28,4 +28,4 @@
 
 - **Qu'est ce qui est omis?**
 
-  Les informations sont sélectionnées par la plateforme, beaucoup de choses moins réjouissantes sont sûrement mises de côtés.
+  Les informations sont sélectionnées par la plateforme, beaucoup de choses moins réjouissantes sont sûrement mises de côtés. Des informations sur leurs revenus financiers seraient aussi intéressantes.
