@@ -1,6 +1,6 @@
 # Exercice 2
 
-## Décrivez ce qu'est la programmation réactivité?
+## Décrivez ce qu'est la programmation réactivite?
 
 La programmation réactive permet d'avoir un affichage qui s'adapte en fonction de la modification de données (grâce à un système de dépendance). Par exemple, en modifiant les chiffres d'un tableau, cela peut changer le graphique en temps réel (un peu comme dans excel).
 
