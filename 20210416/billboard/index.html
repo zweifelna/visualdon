@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://unpkg.com/billboard.js@3.0.2/dist/billboard.min.css" />
+    <script src="https://unpkg.com/billboard.js@3.0.2/dist/billboard.pkgd.min.js"></script>
+  </head>
+  <body>
+    <div id="graph"></div>
+    <script>
+      // const fs = require('fs')
+      // const rawdata = fs.readFileSync('data.json', 'utf-8')
+      // const data = JSON.parse(rawdata);
+
+      const datas = [{"nom":"Lausanne","nbVoyageur":89200},{"nom":"Vevey","nbVoyageur":21000},{"nom":"Renens VD","nbVoyageur":18300},{"nom":"Morges","nbVoyageur":17000},{"nom":"Yverdon-les-Bains","nbVoyageur":16800},{"nom":"Nyon","nbVoyageur":15900},{"nom":"Montreux","nbVoyageur":15800}]
+      
+      bb.generate({
+        bindto: "#graph",
+        data: {
+          json: {
+            Voyageurs: datas.map(({ nbVoyageur }) => nbVoyageur),
+          },
+          type: 'bar'
+        },
+        axis: {
+        x: {
+          type: 'category',
+          categories: datas.map(({ nom }) => nom),
+        }
+      },
+      color: {
+        pattern: ['indianred'],
+      }
+      })
+    </script>
+  </body>
+</html>
