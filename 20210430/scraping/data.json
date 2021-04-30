@@ -1,0 +1,587 @@
+[
+    {
+        "produit": "Asus VivoBook X4...",
+        "prix": "$295.99",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Prestigio SmartB...",
+        "prix": "$299.00",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Prestigio SmartB...",
+        "prix": "$299.00",
+        "etoiles": "4"
+    },
+    {
+        "produit": "Aspire E1-510",
+        "prix": "$306.99",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Lenovo V110-15IA...",
+        "prix": "$321.94",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Lenovo V110-15IA...",
+        "prix": "$356.49",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Hewlett Packard...",
+        "prix": "$364.46",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Acer Aspire 3 A3...",
+        "prix": "$372.70",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Acer Aspire A315...",
+        "prix": "$379.94",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Acer Aspire ES1-...",
+        "prix": "$379.95",
+        "etoiles": "4"
+    },
+    {
+        "produit": "Acer Aspire 3 A3...",
+        "prix": "$391.48",
+        "etoiles": "4"
+    },
+    {
+        "produit": "Acer Aspire 3 A3...",
+        "prix": "$393.88",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Asus VivoBook Ma...",
+        "prix": "$399.00",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Asus VivoBook E5...",
+        "prix": "$399.99",
+        "etoiles": "4"
+    },
+    {
+        "produit": "Lenovo ThinkPad...",
+        "prix": "$404.23",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Acer Aspire 3 A3...",
+        "prix": "$408.98",
+        "etoiles": "4"
+    },
+    {
+        "produit": "Lenovo V110-15IS...",
+        "prix": "$409.63",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Acer Aspire ES1-...",
+        "prix": "$410.46",
+        "etoiles": "4"
+    },
+    {
+        "produit": "Asus VivoBook 15...",
+        "prix": "$410.66",
+        "etoiles": "4"
+    },
+    {
+        "produit": "Packard 255 G2",
+        "prix": "$416.99",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Asus EeeBook R41...",
+        "prix": "$433.30",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Acer Aspire 3 A3...",
+        "prix": "$436.29",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Acer Aspire ES1-...",
+        "prix": "$436.29",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Acer Extensa 15...",
+        "prix": "$439.73",
+        "etoiles": "4"
+    },
+    {
+        "produit": "Acer Aspire ES1-...",
+        "prix": "$454.62",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Lenovo V110-15IS...",
+        "prix": "$454.73",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Acer Aspire A315...",
+        "prix": "$457.38",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Lenovo V110-15IK...",
+        "prix": "$465.95",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Asus VivoBook 15...",
+        "prix": "$468.56",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Acer Aspire ES1-...",
+        "prix": "$469.10",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Lenovo V510 Blac...",
+        "prix": "$484.23",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Acer Aspire ES1-...",
+        "prix": "$485.90",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Lenovo V510 Blac...",
+        "prix": "$487.80",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Acer Swift 1 SF1...",
+        "prix": "$488.64",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Dell Vostro 15",
+        "prix": "$488.78",
+        "etoiles": "4"
+    },
+    {
+        "produit": "Acer Aspire 3 A3...",
+        "prix": "$494.71",
+        "etoiles": "4"
+    },
+    {
+        "produit": "Dell Vostro 15 (...",
+        "prix": "$497.17",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Lenovo V510 Blac...",
+        "prix": "$498.23",
+        "etoiles": "3"
+    },
+    {
+        "produit": "HP 250 G3",
+        "prix": "$520.99",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Acer Spin 5",
+        "prix": "$564.98",
+        "etoiles": "2"
+    },
+    {
+        "produit": "HP 350 G1",
+        "prix": "$577.99",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Aspire E1-572G",
+        "prix": "$581.99",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Pavilion",
+        "prix": "$609.99",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Acer Aspire A515...",
+        "prix": "$679.00",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Dell Inspiron 15",
+        "prix": "$679.00",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Asus VivoBook S1...",
+        "prix": "$729.00",
+        "etoiles": "1"
+    },
+    {
+        "produit": "ProBook",
+        "prix": "$739.99",
+        "etoiles": "4"
+    },
+    {
+        "produit": "Inspiron 15",
+        "prix": "$745.99",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Asus ROG STRIX G...",
+        "prix": "$799.00",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Acer Nitro 5 AN5...",
+        "prix": "$809.00",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Asus ROG STRIX G...",
+        "prix": "$899.00",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Lenovo ThinkPad...",
+        "prix": "$999.00",
+        "etoiles": "3"
+    },
+    {
+        "produit": "ThinkPad Yoga",
+        "prix": "$1033.99",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Lenovo ThinkPad...",
+        "prix": "$1096.02",
+        "etoiles": "4"
+    },
+    {
+        "produit": "Dell Inspiron 15...",
+        "prix": "$1098.42",
+        "etoiles": "1"
+    },
+    {
+        "produit": "MSI GL72M 7RDX",
+        "prix": "$1099.00",
+        "etoiles": "4"
+    },
+    {
+        "produit": "MSI GL72M 7RDX",
+        "prix": "$1099.00",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Asus ROG Strix G...",
+        "prix": "$1101.83",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Dell Latitude 52...",
+        "prix": "$1102.66",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Dell Latitude 54...",
+        "prix": "$1110.14",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Lenovo Legion Y5...",
+        "prix": "$1112.91",
+        "etoiles": "4"
+    },
+    {
+        "produit": "Toshiba Portege...",
+        "prix": "$1114.55",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Acer Predator He...",
+        "prix": "$1123.87",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Acer Aspire 7 A7...",
+        "prix": "$1123.87",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Dell Inspiron 17...",
+        "prix": "$1124.20",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Dell Latitude 54...",
+        "prix": "$1133.82",
+        "etoiles": "4"
+    },
+    {
+        "produit": "Lenovo Legion Y5...",
+        "prix": "$1133.91",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Asus AsusPro Adv...",
+        "prix": "$1139.54",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Acer Nitro 5 AN5...",
+        "prix": "$1140.62",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Dell Latitude 54...",
+        "prix": "$1143.40",
+        "etoiles": "4"
+    },
+    {
+        "produit": "Dell Inspiron 15...",
+        "prix": "$1144.20",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Dell Latitude 55...",
+        "prix": "$1144.40",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Lenovo Legion Y5...",
+        "prix": "$1149.00",
+        "etoiles": "3"
+    },
+    {
+        "produit": "MSI GP62M 7RDX L...",
+        "prix": "$1149.00",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Lenovo Yoga 720...",
+        "prix": "$1149.73",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Toshiba Portege...",
+        "prix": "$1154.04",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Acer TravelMate...",
+        "prix": "$1170.10",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Dell Latitude 55...",
+        "prix": "$1178.19",
+        "etoiles": "3"
+    },
+    {
+        "produit": "ThinkPad T540p",
+        "prix": "$1178.99",
+        "etoiles": "1"
+    },
+    {
+        "produit": "MSI GS63 7RD Ste...",
+        "prix": "$1179.00",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Dell Latitude 54...",
+        "prix": "$1187.88",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Acer Predator He...",
+        "prix": "$1187.98",
+        "etoiles": "3"
+    },
+    {
+        "produit": "MSI GL62M 7REX",
+        "prix": "$1199.00",
+        "etoiles": "1"
+    },
+    {
+        "produit": "MSI GL62M 7REX2",
+        "prix": "$1199.00",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Lenovo Yoga 910...",
+        "prix": "$1199.73",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Toshiba Portege...",
+        "prix": "$1203.41",
+        "etoiles": "4"
+    },
+    {
+        "produit": "Lenovo IdeaPad M...",
+        "prix": "$1212.16",
+        "etoiles": "4"
+    },
+    {
+        "produit": "Acer Predator He...",
+        "prix": "$1221.58",
+        "etoiles": "1"
+    },
+    {
+        "produit": "ThinkPad Yoga",
+        "prix": "$1223.99",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Asus VivoBook Pr...",
+        "prix": "$1235.49",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Dell Latitude 54...",
+        "prix": "$1238.37",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Asus ZenBook UX5...",
+        "prix": "$1239.20",
+        "etoiles": "1"
+    },
+    {
+        "produit": "ThinkPad X230",
+        "prix": "$1244.99",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Asus ROG Strix G...",
+        "prix": "$1259.00",
+        "etoiles": "4"
+    },
+    {
+        "produit": "Apple MacBook Ai...",
+        "prix": "$1260.13",
+        "etoiles": "4"
+    },
+    {
+        "produit": "Dell Latitude 54...",
+        "prix": "$1271.06",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Hewlett Packard...",
+        "prix": "$1273.11",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Dell XPS 13",
+        "prix": "$1281.99",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Toshiba Portege...",
+        "prix": "$1294.74",
+        "etoiles": "1"
+    },
+    {
+        "produit": "MSI GL62VR 7RFX",
+        "prix": "$1299.00",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Dell Latitude 54...",
+        "prix": "$1310.39",
+        "etoiles": "3"
+    },
+    {
+        "produit": "ThinkPad X240",
+        "prix": "$1311.99",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Hewlett Packard...",
+        "prix": "$1326.83",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Apple MacBook Pr...",
+        "prix": "$1333.00",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Dell Latitude 55...",
+        "prix": "$1337.28",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Dell Latitude 54...",
+        "prix": "$1338.37",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Dell Latitude 55...",
+        "prix": "$1341.22",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Apple MacBook Ai...",
+        "prix": "$1347.78",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Lenovo ThinkPad...",
+        "prix": "$1349.23",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Lenovo ThinkPad...",
+        "prix": "$1362.24",
+        "etoiles": "2"
+    },
+    {
+        "produit": "Toshiba Portege...",
+        "prix": "$1366.32",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Asus ASUSPRO B94...",
+        "prix": "$1381.13",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Lenovo Legion Y7...",
+        "prix": "$1399.00",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Asus ROG Strix G...",
+        "prix": "$1399.00",
+        "etoiles": "3"
+    },
+    {
+        "produit": "Asus ROG Strix G...",
+        "prix": "$1769.00",
+        "etoiles": "4"
+    },
+    {
+        "produit": "Asus ROG Strix G...",
+        "prix": "$1769.00",
+        "etoiles": "1"
+    },
+    {
+        "produit": "Asus ROG Strix S...",
+        "prix": "$1799.00",
+        "etoiles": "3"
+    }
+]
