@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapeau melon 3D</title>
+    
+</head>
+<body>
+    <script src="https://unpkg.com/zdog@1/dist/zdog.dist.min.js"></script>
+    
+    <h1>Chapeau melon</h1>
+    <canvas class="zdog-canvas" width="240" height="240"></canvas>
+
+    <script>
+        let isSpinning = true;
+
+        let illo = new Zdog.Illustration({
+        element: '.zdog-canvas',
+        dragRotate: true,
+        // stop spinning when drag starts
+        onDragStart: function() {
+            isSpinning = false;
+        },
+        });
+
+
+        // circle
+        new Zdog.Ellipse({
+        addTo: illo,
+        diameter: 120,
+        translate: { z: -1 },
+        stroke: 20,
+        color: '#000000',
+        rotate: { x: Zdog.TAU/4 }
+        });
+
+        
+
+        let dome = new Zdog.Hemisphere({
+        addTo: illo,
+        diameter: 120,
+        // fill enabled by default
+        // disable stroke for crisp edge
+        stroke: false,
+        color: '#383536',
+        backface: '#EA0',
+        rotate: { x: Zdog.TAU/4 }
+        });
+
+
+        function animate() {
+        illo.rotate.x += isSpinning ? 0.03 : 0;
+        illo.updateRenderGraph();
+        requestAnimationFrame( animate );
+        }
+        animate();
+    </script>
+</body>
+</html>
