@@ -14,3 +14,8 @@ Données qui seront analysées :
 - Nombre de lancement réussi et échec
 - Taille et diamètre des fusées
 - ...
+
+### 25.06.2021
+Projet terminé
+Lien vers le repo du projet : https://github.com/zweifelna/spacex-stories
+Lien pour la visualisation : https://spacex-stories.surge.sh/
